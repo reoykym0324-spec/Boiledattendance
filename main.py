@@ -1,5 +1,5 @@
 from openpyxl import Workbook
-from gui1 import wait_for_export_button
+from gui import wait_for_export_button
 
 
 def main():
